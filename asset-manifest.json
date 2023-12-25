@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Database-Portfolio/static/css/main.def62172.css",
+    "main.js": "/Database-Portfolio/static/js/main.04760d24.js",
+    "static/js/787.7da95b79.chunk.js": "/Database-Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/LR4.svg": "/Database-Portfolio/static/media/LR4.2ed9af1f6480221cea97cfc8b293f4ed.svg",
+    "static/media/SR1.svg": "/Database-Portfolio/static/media/SR1.62a9ffe712d6b1068b3f75830e9d6a42.svg",
+    "static/media/LR3.svg": "/Database-Portfolio/static/media/LR3.84aba09f786420dfa38eacb423666cdf.svg",
+    "static/media/COMP.svg": "/Database-Portfolio/static/media/COMP.63c83bad485216a17d0f2b4dd5a393d5.svg",
+    "static/media/LR5.svg": "/Database-Portfolio/static/media/LR5.b35e52d445f5f05c4bcd0a0610df7b63.svg",
+    "static/media/LR1.svg": "/Database-Portfolio/static/media/LR1.4d9b59a34ab7f988a379b6ef6368eb5f.svg",
+    "static/media/SR3.svg": "/Database-Portfolio/static/media/SR3.d0063146b4f886ebacd3f61a911caa8c.svg",
+    "static/media/LR6.svg": "/Database-Portfolio/static/media/LR6.2437662ea5441d817019342713baf5fb.svg",
+    "static/media/SR2.svg": "/Database-Portfolio/static/media/SR2.d465a1790b8e0842f3629de330c8c57c.svg",
+    "static/media/LR2.svg": "/Database-Portfolio/static/media/LR2.39a5ece2f03c423427e631c13ec2b176.svg",
+    "static/media/pre.svg": "/Database-Portfolio/static/media/pre.84272464099b038fe50d.svg",
+    "index.html": "/Database-Portfolio/index.html",
+    "main.def62172.css.map": "/Database-Portfolio/static/css/main.def62172.css.map",
+    "main.04760d24.js.map": "/Database-Portfolio/static/js/main.04760d24.js.map",
+    "787.7da95b79.chunk.js.map": "/Database-Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def62172.css",
+    "static/js/main.04760d24.js"
+  ]
+}
